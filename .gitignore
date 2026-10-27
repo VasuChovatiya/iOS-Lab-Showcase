@@ -1,0 +1,6 @@
+# Raw uncompressed/original recordings (> 100MB exceeds GitHub file limit)
+*_original.mp4
+*original*.mp4
+
+# macOS
+.DS_Store
