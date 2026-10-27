@@ -2,11 +2,15 @@
 
 A showcase repository featuring modern iOS tech demos, screen recordings, interactive screenshots, and architectural highlights.
 
+<p align="center">
+  <img src="01-Swift-Concurrency/screenshots/root_dashboard.png" alt="iOS Lab Dashboard" width="360" />
+</p>
+
 ## Tech Demos Overview
 
 | # | Demo Module | Highlights & Key APIs | Media Preview | Status |
 |---|-------------|-----------------------|---------------|--------|
-| 1 | **Swift Concurrency** | `async/await`, `actor`, `@MainActor`, `Sendable`, `TaskGroup`, `AsyncStream` | [Media & Details](01-Swift-Concurrency/) | 🚧 In Progress |
+| 1 | **Swift Concurrency** | `async/await`, `actor`, `@MainActor`, `Sendable`, `TaskGroup`, `AsyncStream` | [Media & Details](01-Swift-Concurrency/) | ✅ Completed |
 | 2 | **Swift Charts** | Line, Bar, Area charts, Selection, Gradients, Dark Mode | [Media & Details](02-Swift-Charts/) | ⏳ Planned |
 | 3 | **MapKit** | Custom Annotations, Directions & Route Polylines, User Tracking | [Media & Details](03-MapKit/) | ⏳ Planned |
 | 4 | **Core ML & Vision** | Real-time text/image recognition, Camera scanner | [Media & Details](04-Vision-CoreML/) | ⏳ Planned |
