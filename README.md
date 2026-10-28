@@ -23,3 +23,7 @@ A showcase repository featuring modern iOS tech demos, screen recordings, intera
 
 > [!NOTE]
 > Source code for this lab is maintained in a private repository. This repository acts as a public showcase for client demos, visual updates, screen recordings, and documentation.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
